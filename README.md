@@ -1,4 +1,4 @@
-# Amoutn Dispense and Color Count Programs
+# Amount Dispense and Color Count Programs
 This script works in various steps. Please go through the each steps and process written below in sequence. Don't miss any step
 
 ## Installation Process
